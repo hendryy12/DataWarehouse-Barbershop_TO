@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL Barbershop Project Data WareHouse Kelompok F", "ETL Barbershop Project Data WareHouse Kelompok F.dtproj", "{0922AF6F-5A71-498C-AFE1-B676C959439E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0922AF6F-5A71-498C-AFE1-B676C959439E}.Development|Default.ActiveCfg = Development
+		{0922AF6F-5A71-498C-AFE1-B676C959439E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790DB3F4-ACF2-4A02-A030-81180E43F31A}
+	EndGlobalSection
+EndGlobal

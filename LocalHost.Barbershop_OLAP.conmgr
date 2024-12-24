@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.Barbershop_OLAP"
+  DTS:DTSID="{01D45A6D-E1D9-404C-A8BD-E754C5E8CAE4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=Barbershop_OLAP;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-ETL Barbershop Project Data WareHouse Kelompok F-{01D45A6D-E1D9-404C-A8BD-E754C5E8CAE4}LocalHost.Barbershop_OLAP;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
